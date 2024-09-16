@@ -1,0 +1,63 @@
+.card{
+margin-top: 5%;
+margin-left: 35%;
+margin-right: 35%;
+border-radius: 8px;
+background-color: rgba(123,159,159,0.5);
+box-shadow: 10px 10px 8px -5px #1c1c1d;
+}
+
+input[type=text]{
+border: none;
+background-color: #d5f8d2;
+border-radius: 4px;
+margin-top: 7%;
+margin-left: 5%;
+height: 20px;
+width: 50%;
+}
+
+input[type=number]{
+border: none;
+background-color: #d5f8d2;
+border-radius: 4px;
+margin-top: 7%;
+margin-left: 5%;
+height: 20px;
+width: 50%;
+}
+
+
+input[type=file]{
+border: none;
+background-color: #d5f8d2;
+border-radius: 4px;
+margin-top: 7%;
+margin-left: 5%;
+height: 20px;
+width: 50%;
+}
+
+input[type=submit]{
+border: none;
+background-color: #5f20cc;
+border-radius: 4px;
+height: 20px;
+width: 30%;
+margin-top: 5%;
+margin-left: 35%;
+margin-bottom: 4%;
+}
+
+input[type=submit]:hover{
+cursor: pointer;
+}
+
+select{
+border: none;
+background-color: #d5f8d2;
+margin-top: 7%;
+margin-left: 5%;
+height: 20px;
+width: 50%;
+}

@@ -1,0 +1,26 @@
+.Add1{
+margin-top: 1%;
+margin-left: 3%;
+margin-right: 53%;
+border-radius: 8px;
+background-color: rgba(0,251,255,0.7);
+box-shadow: 10px 10px 8px -5px #1c1c1d;
+}
+
+.Add2{
+margin-top: -3%;
+margin-left: 53%;
+margin-right: 3%;
+border-radius: 8px;
+background-color: rgba(0,251,255,0.7);
+box-shadow: 10px 10px 8px -5px #1c1c1d;
+}
+
+.Add3{
+margin-top: -5%;
+margin-left: 3%;
+margin-right: 53%;
+border-radius: 8px;
+background-color: rgba(0,251,255,0.7);
+box-shadow: 10px 10px 8px -5px #1c1c1d;
+}
